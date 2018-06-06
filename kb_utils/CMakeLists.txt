@@ -53,6 +53,7 @@ add_message_files(
   Command.msg
   Encoder.msg
   Sonar.msg
+  Vo.msg
 )
 
 ## Generate services in the 'srv' folder
